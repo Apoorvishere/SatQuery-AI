@@ -101,6 +101,15 @@ SatQuery AI was developed as a solution for the **Smart India Hackathon (SIH)**.
 The project is actively being developed and refined.
 
 ---
+## 📄 Usage
+
+This repository contains project documentation, architecture diagrams,
+demonstrations, and other showcase material for SatQuery AI.
+
+© 2026 TeamSN. All rights reserved.
+
+The materials in this repository may not be reproduced, modified,
+redistributed, or used commercially without prior permission from TeamSN.
 
 ## 📄 License
 
