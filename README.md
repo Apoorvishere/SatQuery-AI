@@ -22,7 +22,7 @@ It combines **optical and SAR imagery**, temporal information, grounding, and in
 
 ## 🏗️ System Architecture
 
-> Architecture diagram coming soon.
+[View the full system architecture →](architecture/system-architecture.md)
 
 The system follows an agentic workflow in which a user query is interpreted, the appropriate tools or analysis capabilities are selected, and the resulting information is processed by the VLM to generate a grounded response.
 
