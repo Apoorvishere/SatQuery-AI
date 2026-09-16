@@ -2,8 +2,6 @@
 
 SatQuery AI uses an **agentic multimodal architecture** that combines a vision-language model with specialized remote-sensing analysis tools.
 
-![SatQuery AI System Architecture](../images/system-architecture.png)
-
 ## Architecture Overview
 
 The system follows a pipeline from natural-language user queries to specialized analysis and evidence-backed results:
