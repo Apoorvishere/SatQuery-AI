@@ -2,6 +2,9 @@
 
 SatQuery AI uses an **agentic multimodal architecture** that combines a vision-language model with specialized remote-sensing analysis tools.
 
+<img width="1536" height="1024" alt="ChatGPT Image Sep 17, 2026, 12_13_39 AM" src="https://github.com/user-attachments/assets/7e424c08-87c1-40d5-b92f-9e618f53ad0b" />
+
+
 ## Architecture Overview
 
 The system follows a pipeline from natural-language user queries to specialized analysis and evidence-backed results:
