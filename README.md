@@ -197,10 +197,10 @@ The companion development repository contains the underlying implementation and 
 ### 🔗 Repositories
 
 **Public Research & Showcase**  
-[SatQuery-AI](PUBLIC_REPOSITORY_URL)
+[SatQuery-AI](https://github.com/Apoorvishere/SatQuery-AI)
 
 **Implementation & Research Lab**  
-[SatQuery Development Repository](IMPLEMENTATION_REPOSITORY_URL)
+[SatQuery Development Repository](https://github.com/Yoriichi-GOD/SatQuery-)
 
 > The repositories are intentionally separated: the public repository provides a concise technical and research-facing view of SatQuery, while the implementation repository preserves the complete development, experimentation, evaluation, and testing environment.
 
