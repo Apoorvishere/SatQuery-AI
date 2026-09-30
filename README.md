@@ -159,6 +159,33 @@ SatQuery AI was developed as a solution for the **Smart India Hackathon (SIH)**.
 6. **Noel David** — Presenter
 
 ---
+## Implementation
+
+SatQuery is developed across a research and implementation workflow.
+
+The public repository contains the system architecture, methodology,
+technical documentation, demonstrations, examples, and evaluation
+artifacts.
+
+The development implementation includes:
+
+- Agentic query routing and pipeline orchestration
+- Remote-sensing VQA
+- Spatial grounding
+- Temporal / paired-image analysis
+- Optical-SAR processing
+- Geospatial processing and reprojection
+- Object counting
+- Model adaptation and trained adapters
+- Evaluation pipelines
+- Automated testing
+- Web/API services
+
+The implementation is maintained separately while the public repository
+serves as the technical and research-facing interface to the project.
+
+---
+
 ## Repository Structure
 
 SatQuery is maintained across two repositories:
