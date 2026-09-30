@@ -86,12 +86,12 @@ SatQuery AI was developed as a solution for the **Smart India Hackathon (SIH)**.
 ## 👥 Team
 
 **Team SatQuery**
-1. Team Lead - Ritik
-2. Lead Developer - YorichiiGod
-3. Lead Researcher/Co-dev - Apoorvishere
-4. Researcher - Jiya
-5. Presenter - Noel David
-6. Researcher - Pratham
+1. Team Lead - Ritik Kumar Sharma
+2. Lead Developer - Saishreek Singh
+3. Co-dev - Apoorv Jha
+4. Lead Researcher - Pratham Sengar
+5. Researcher - Jiya Yadav
+6. Presenter - Noel David
 
 ---
 
