@@ -159,30 +159,50 @@ SatQuery AI was developed as a solution for the **Smart India Hackathon (SIH)**.
 6. **Noel David** — Presenter
 
 ---
-## Implementation
 
-SatQuery is developed across a research and implementation workflow.
+## 🔬 Research & Implementation
 
-The public repository contains the system architecture, methodology,
-technical documentation, demonstrations, examples, and evaluation
-artifacts.
+SatQuery AI is developed across two complementary repositories, separating the public-facing research and project documentation from the underlying development and experimentation environment.
 
-The development implementation includes:
+### 🌐 Public Research & Showcase
 
-- Agentic query routing and pipeline orchestration
+This repository presents the public-facing side of SatQuery AI, including:
+
+- System architecture
+- Technical methodology
+- Core capabilities
+- Demonstrations and examples
+- Remote-sensing workflows
+- Evaluation results
+- Research documentation
+- Presentations and project materials
+
+### 🛠️ Implementation & Research Lab
+
+The companion development repository contains the underlying implementation and research infrastructure powering SatQuery, including:
+
+- Agentic query routing
 - Remote-sensing VQA
 - Spatial grounding
-- Temporal / paired-image analysis
-- Optical-SAR processing
-- Geospatial processing and reprojection
+- Paired / temporal analysis
+- Optical–SAR workflows
+- Geospatial processing
 - Object counting
 - Model adaptation and trained adapters
 - Evaluation pipelines
-- Automated testing
-- Web/API services
+- Verification and reproducibility tooling
+- Automated tests
+- Experimental labs and checkpoints
 
-The implementation is maintained separately while the public repository
-serves as the technical and research-facing interface to the project.
+### 🔗 Repositories
+
+**Public Research & Showcase**  
+[SatQuery-AI](PUBLIC_REPOSITORY_URL)
+
+**Implementation & Research Lab**  
+[SatQuery Development Repository](IMPLEMENTATION_REPOSITORY_URL)
+
+> The repositories are intentionally separated: the public repository provides a concise technical and research-facing view of SatQuery, while the implementation repository preserves the complete development, experimentation, evaluation, and testing environment.
 
 ---
 
