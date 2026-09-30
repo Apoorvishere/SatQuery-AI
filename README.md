@@ -159,6 +159,17 @@ SatQuery AI was developed as a solution for the **Smart India Hackathon (SIH)**.
 6. **Noel David** — Presenter
 
 ---
+## Repository Structure
+
+SatQuery is maintained across two repositories:
+
+Public Research & Showcase Repository
+Architecture, methodology, demonstrations, evaluation summaries, technical documentation and project materials.
+
+Development Repository
+Internal implementation containing the application stack, model experiments, grounding pipeline, geospatial processing, routing, evaluation, tests and research artifacts.
+
+---
 
 ## 📌 Project Status
 
